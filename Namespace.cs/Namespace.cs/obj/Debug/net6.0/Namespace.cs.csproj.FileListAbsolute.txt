@@ -1,0 +1,15 @@
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.csproj.AssemblyReference.cache
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.AssemblyInfoInputs.cache
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.AssemblyInfo.cs
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.csproj.CoreCompileInputs.cache
+D:\C#\Namespace.cs\Namespace.cs\bin\Debug\net6.0\Namespace.cs.exe
+D:\C#\Namespace.cs\Namespace.cs\bin\Debug\net6.0\Namespace.cs.deps.json
+D:\C#\Namespace.cs\Namespace.cs\bin\Debug\net6.0\Namespace.cs.runtimeconfig.json
+D:\C#\Namespace.cs\Namespace.cs\bin\Debug\net6.0\Namespace.cs.dll
+D:\C#\Namespace.cs\Namespace.cs\bin\Debug\net6.0\Namespace.cs.pdb
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.dll
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\refint\Namespace.cs.dll
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.pdb
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\Namespace.cs.genruntimeconfig.cache
+D:\C#\Namespace.cs\Namespace.cs\obj\Debug\net6.0\ref\Namespace.cs.dll
